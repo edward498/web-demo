@@ -1,0 +1,7 @@
+{
+  "name": "HomeGuard Repair Assistant",
+  "description": "A professional tool for home appliance repair businesses to manage marketing content and provide AI-powered customer support for white goods services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
